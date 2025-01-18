@@ -40,7 +40,7 @@
 4. operation 选择 "replace"
 5. 根据需要设置 case_sensitive
 
-## 联系微信：NFTNiuTouRen666
+## 联系微信：NFTSongGuo11
 
 ## 许可证
 
