@@ -13,7 +13,7 @@
 
 1. 解压缩 ComfyUI-Text-Modifier-main 
 2. 进入你的 ComfyUI 的 custom_nodes 文件夹
-3. 将ComfyUI-Text-Modifier-main粘贴到到custom_nodes文件夹中
+3. 将 ComfyUI-Text-Modifier-main 粘贴到到 custom_nodes 文件夹中
 4. 重启 ComfyUI
 
 ## 使用方法
