@@ -11,9 +11,9 @@
 
 ## 安装方法
 
-1. 解压缩 ComfyUI-Text-Modifier 
+1. 解压缩 ComfyUI-Text-Modifier-main 
 2. 进入你的 ComfyUI 的 custom_nodes 文件夹
-3. 将ComfyUI-Text-Modifier复制到该文件夹中
+3. 将ComfyUI-Text-Modifier-main粘贴到到custom_nodes文件夹中
 4. 重启 ComfyUI
 
 ## 使用方法
